@@ -53,4 +53,5 @@ The ensemble model flags transactions as anomalous when at least two models agre
 
 ## Project Goal
 
-To build a simple and practical anomaly detection pipeline for blockchain-based P2P smart grid transactions without using labeled anomaly data.
+To build a simple and practical anomaly detection pipeline for blockchain-based P2P smart grid transactions without using labeled anomaly data..
+
